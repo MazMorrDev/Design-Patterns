@@ -1,4 +1,4 @@
-# Design-Patterns-CI
+# Design-Patterns
 
 ## Acerca del Proyecto
 
