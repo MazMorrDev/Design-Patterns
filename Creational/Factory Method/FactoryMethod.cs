@@ -2,7 +2,7 @@
 
 namespace Company.ClassLibrary1;
 
-public class AbstractFactory
+public class FactoryMethod
 {
 
 }
