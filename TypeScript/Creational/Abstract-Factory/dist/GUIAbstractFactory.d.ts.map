@@ -1,0 +1,1 @@
+{"version":3,"file":"GUIAbstractFactory.d.ts","sourceRoot":"","sources":["../src/GUIAbstractFactory.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,qBAAqB,EAAE,MAAM,4BAA4B,CAAA;AACvE,OAAO,KAAK,EAAE,uBAAuB,EAAE,MAAM,8BAA8B,CAAA;AAI3E,MAAM,WAAW,kBAAkB;IACjC,YAAY,IAAK,qBAAqB,CAAA;IACtC,cAAc,IAAI,uBAAuB,CAAA;CAC1C"}
